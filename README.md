@@ -28,9 +28,9 @@ I'm a **full-stack developer** passionate about building clean, scalable systems
 
 ### 📊 GitHub Stats
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danielogbuti&show_icons=true&theme=github_dark&hide_rank=true)
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dahnny&show_icons=true&theme=github_dark&hide_rank=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielogbuti&layout=compact&theme=github_dark&hide=jupyter%20notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahnny&layout=compact&theme=github_dark&hide=jupyter%20notebook)
 
 ---
 
